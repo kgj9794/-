@@ -1,0 +1,51 @@
+{
+    "name": "건주 포트폴리오",
+    "short_name": "건주 포트폴리오",
+    "icons": [
+        {
+            "src": "images/건주.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "images/건주.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/건주.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "images/건주.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/건주.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "images/건주.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "images/16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "images/32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#171820",
+    "theme_color": "#171820"
+}
